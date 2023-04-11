@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-11T21:54:49Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:dantappan"
+    },
+    {
+      "Claim": "yt:@dantappan"
+    },
+    {
+      "Claim": "mdon:@dantappan@better.boston"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "70685ce41859157ce1bd3480",
+    "Timestamp": "2023-04-11T22:00:05Z",
+    "Signature": "79b874b203466c41cf54eb03bc1354be57dd9d7f93f9648c4f777305423882fa49b0e75f2a32519105c6cbb11d29c501d1469473ec7ba9638b4be176ad02d21ffc13b84ec70a16b6f81a8d10173d615decc5e958dbb4f39242779d431ed2412c220439321e2624c7a47070b495a95331f2abe5ec374eaf3df020a41146f358ea2a068949e040d6fd346b17b7a908a49ade249a032901231becfc847b60ded2eb5283c1fcd4c345b23344d5ea334f69b981568bbc7fe687c26c6deece739c5d92d38e9bf26c277cec8dec11098da2c02a41fcd3faa0ab208e4b0e6c62587656a39944029fa99b1ca144296add531c2979037f558626cd22b4f8e3377915a0b6fb"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "23fa008c974f043b3668511fe4a0cbcfb8a17030e1b398fe2654b98ee912f5dc",
+  "ContentToHash": "v1|gh:dantappan,mdon:@dantappan@better.boston,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,yt:@dantappan|2023-04-11T21:54:49Z"
+}
